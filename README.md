@@ -1,2 +1,3 @@
 # custom_mihomo_ruleset
-自动转换自定义的yaml格式mihomo规则集到mrs格式规则集
+当有自定义的yaml格式mihomo规则集上传到yaml目录时<br>
+自动转换到mrs目录的mrs格式规则集并发布
