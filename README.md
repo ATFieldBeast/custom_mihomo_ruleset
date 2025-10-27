@@ -1,0 +1,2 @@
+# custom_mihomo_ruleset
+自动转换自定义的yaml格式mihomo规则集到mrs格式规则集
